@@ -1,7 +1,7 @@
 alembic==1.3.2
 appdirs==1.4.3
 appnope==0.1.0
-asgiref==3.2.3
+asgiref==3.2.10
 astroid==2.3.3
 attrs==19.3.0
 autopep8==1.4.4
@@ -50,7 +50,7 @@ pyflakes==2.1.1
 Pygments==2.7.4
 pylama==7.7.1
 pylint==2.4.4
-python-dateutil==2.8.1
+python-dateutil==
 python-decouple==3.3
 python-dotenv==0.10.4
 python-editor==1.0.4
